@@ -1,0 +1,10 @@
+Assignment 1
+
+1.	Write a program to input any numbers and swap or interchange the value of both the variables.
+2.	Write a program to take three values and again interchange without using 4th variable.
+3.	Write a program to input any temperature and convert it into farnite and also Celsius.
+4.	Write a program to read value of A,B,C and find the roots of the quadric equation.
+5.	Write a program to any radius and print the area of circle.
+6.	Write a program to convert the temperature (a) from Celsius to Fahrenheit and (b) from Fahrenheit to Celsius. (Hint: F=(9C/5+32))
+7.	Write a program to swap value of two variables without using arithmetic operators and third variable.
+8.	Ramesh’s basic salary is input through the keyboard. His dearness allowance is 40% of basic salary, and house rent allowance is 20% of basic salary. Write a program to calculate his gross salary.
